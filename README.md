@@ -1,4 +1,3 @@
-PP1
-===
+# Programming project 1
 
-YOLO
+This is a programming project to demonstrate sorting algorithms
